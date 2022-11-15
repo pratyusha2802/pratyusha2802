@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Pratyusha Patidar  
 
+[![GitHub Streak](https://streak-stats.demolab.com/pratyusha2802)](https://git.io/streak-stats)
+
 - 🎓 CSE Undergraduate at MANIT Bhopal
 - 🌱 I’m always ready to learn new skills
 - 🖥 Enhancing my tech skills
-<!-- - 📝 [Resume]('https://drive.google.com/file/d/1gnYHCdeRSirsCvhCtRM4jKW0_ClyUS8u/view?usp=sharing') -->
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/pratyusha-patidar/)
