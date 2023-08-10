@@ -9,7 +9,7 @@ I am a 2024 undergrad majoring in Computer Science gaining experience and implem
 - 🌱 I’m currently learning DSA and looking for opportunities to work on the frontend. 
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons.
 - 💬 Ask me about Frontend and React-Typescript
-- 📫 How to reach me: [Linkedin]([https://www.linkedin.com/in/pratyusha-patidar/])
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pratyusha-patidar/)
 - 😄 Pronouns: She/Her
 
 <!--END_SECTION:activity-->
